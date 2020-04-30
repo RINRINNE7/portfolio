@@ -15,8 +15,8 @@
 
 - 作品
   - Open Processing
-    - aqua
-    iflame
+    - aqua 
+    <iflame>
     
   - N予備校 授業内での作品
     - [iPhoneアプリ]（）  (2020年5月)
