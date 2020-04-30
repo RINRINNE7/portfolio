@@ -13,12 +13,12 @@
 ## Works
 - [GitHub](https://github.com/RINRINNE7)
 - 作品
-  - 
+  - （２０２０年５月）
   - N予備校 授業内での作品
     - (2020年5月)
     - 秘密の匿名掲示板 (2020年4月)
     - スケジュール調整サービス (2020年4月)
-    - [あなたのいいところ診断](https://rinrinne7.github.io/assessment/assessment.html) (2020年4月)
+    - [あなたのいいところ診断](https://rinrinne7.github.io/assessment/assessment.html) (2020年4月） など
     
 ## Contact
 - [Twitter]()
