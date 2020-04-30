@@ -5,9 +5,6 @@ JavaScriptでプログラミングをしている大学生です。
 - RINRINNE7
 - 関東地方
 
-## History
-- 2020年３月 プログラミング開始
-
 ## Skills
 - JavaScript
 
@@ -19,3 +16,6 @@ JavaScriptでプログラミングをしている大学生です。
 
 ## Contact
 - [Twitter]()
+
+## History
+- 2020年３月 プログラミング開始
