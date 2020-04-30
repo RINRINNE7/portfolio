@@ -8,7 +8,7 @@ JavaScriptでプログラミングをしている大学生です。
 ## Works
 - [GitHub](https://github.com/RINRINNE7)
 - 作品
- - [webアプリケーション]()
+  - [webアプリケーション]()
 
 ## Contact
--[Twitter]()
+- [Twitter]()
