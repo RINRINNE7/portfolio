@@ -1,5 +1,5 @@
 # About
-JavaScriptでプログラミングをしている大学生です。
+目標は楽しく学ぶこと。大学生です。
 
 ## Profile
 - RINRINNE7
@@ -7,15 +7,21 @@ JavaScriptでプログラミングをしている大学生です。
 
 ## Skills
 - JavaScript
+- HTML
+- CSS
 
 ## Works
 - [GitHub](https://github.com/RINRINNE7)
 - 作品
-  - N予備校 プログラミング入門コース内での作品
-    - [webアプリケーション]()
-
+  - 
+  - N予備校 授業内での作品
+    - (2020年5月)
+    - 秘密の匿名掲示板 (2020年4月)
+    - スケジュール調整サービス (2020年4月)
+    - [あなたのいいところ診断](https://rinrinne7.github.io/assessment/assessment.html) (2020年4月)
+    
 ## Contact
 - [Twitter]()
 
 ## History
-- 2020年３月 プログラミング開始
+- 2020年３月 N予備校にてプログラミング開始
