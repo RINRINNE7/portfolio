@@ -22,13 +22,13 @@
   - N予備校 教材内での作品
     - [iPhoneアプリ]() (2020年5月)
     - [リアルタイムオンラインゲーム]() (2020年5月)
-    - [Twitterボット](https://twitter.com/RINRINNE71) (2020年5月)
+    - [Twitterボット](https://twitter.com/Su_bot_by7) (2020年5月)
     - スケジュール調整サービス (2020年4月)
     - 秘密の匿名掲示板 (2020年4月)
     - [あなたのいいところ診断](https://rinrinne7.github.io/assessment/assessment.html) (2020年4月） など
     
 ## Contact
-- [Twitter](https://twitter.com/RINRINNE71)
+- [Twitter](https://twitter.com/Su_bot_by7)
 
 ## History
 - 2020年３月 N予備校にてプログラミング開始
