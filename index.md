@@ -31,4 +31,5 @@
 - [Twitter](https://twitter.com/Su_bot_by7)
 
 ## History
-- 2020年３月 N予備校にてプログラミング開始
+- 2020年３月 N予備校にてプログラミング開始 
+           （受講したコースは『プログラミング入門 Webアプリ』、『スマートフォンアプリ iPhoneアプリ』、『Webデザイン HTML・CSSデザイン』）
