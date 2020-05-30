@@ -20,7 +20,7 @@
     <iframe src="https://www.openprocessing.org/sketch/885282/embed/" width="400" height="300"></iframe>
     
   - N予備校 教材内での作品
-    - [iPhoneアプリ]() (2020年5月)
+    - iPhoneアプリ (2020年5月)
     - [Twitterボット Su](https://twitter.com/Su_bot_by7) (2020年5月)  
        Suはフォロワーのツイートに反応するボットです。また、「おみくじ」とツイートすれば、おみくじ結果を教えてくれます。
     - スケジュール調整サービス (2020年4月)
